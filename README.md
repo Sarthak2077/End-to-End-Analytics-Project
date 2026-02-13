@@ -87,36 +87,52 @@ The pizza business aims to understand which ingredients are most frequently used
 A line/bar chart showing sales by day of the week. <br>
 •	Useful for staffing and operations planning.
 
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050816.png?raw=true)
+
 # Hourly Trend:
 A line/bar chart showing sales by hour of the day. <br>
 • Useful for staffing, ingredients, customer rush and operations planning
+
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050753.png?raw=true)
 
 # Monthly Trend:
 A line chart depicting monthly revenue and orders. <br>
 •	Helps track seasonality and identify peak sales months. <br>
 •	Summer months show higher sales due to promotional campaigns.
 
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050400.png?raw=true)
+
 # % of Sales by Category:
 A bar chart representing revenue and quantity sold for each pizza category (Classic, Supreme, Veggie, Chicken). <br>
 •	Helps identify customer preferences. <br>
 •	Classic pizzas dominate sales, while Veggie has lower demand.
+
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050428.png?raw=true)
 
 # % Sales by Pizza Size & Category:
 A bar/ donut chart comparing sales revenue and quantity by pizza size (S, M, L, XL). <br>
 •	Highlights demand distribution by size and assist inventory planning. <br>
 •	Large (L) pizzas contribute the highest revenue.
 
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050308.png?raw=true)
+
 # Total Pizzas Sold by Pizza Category:
 •	Manage inventory by stocking ingredients used in the most popular categories. <br>
 •	Evaluate if low-performing categories should be optimized, redesigned, or discontinued.
+
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050714.png?raw=true)
 
 # Top 5 Best-Selling Pizzas:
 A horizontal bar chart showing pizzas with the highest sales (by revenue, orders or quantity). <br>
 •	Supports promotional and menu strategy.
 
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050657.png?raw=true)
+
 # Bottom 5 Least-Selling Pizzas:
 A horizontal bar chart of pizzas with the lowest sales. <br>
 •	Identifies products for improvement or possible removal from the menu.
+
+![image URL](https://github.com/Sarthak2077/End-to-End-Analytics-Project/blob/main/images/Screenshot%202026-02-12%20050453.png?raw=true)
 
 
 # Business Questions Answered
