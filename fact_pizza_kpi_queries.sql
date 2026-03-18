@@ -39,15 +39,6 @@ fact_pizza_sales;
 SELECT COUNT(*) AS total_rows
 FROM fact_pizza_sales;
 
--- TOP 3 category by revenue
-
-SELECT pizza_category,
-SUM(total_price) as total_rev 
-from fact_pizza_sales 
-group by pizza_category 
-order by total_rev 
-desc limit 3;
-
 -- Rank by category using rank()
 
 SELECT 
